@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "lib3amsoft";
+  src: local("LIBRARY 3 AM soft Regular"), url(./fonts/Library3amsoft.otf);
+}
+
+@font-face {
+  font-family: "lib3";
+  src: local("LIBRARY 3 AM Regular"), url(./fonts/Library3am.otf);
+}
